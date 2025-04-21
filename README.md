@@ -7,6 +7,7 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SiaKovy/30github/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SiaKovy/30github/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SiaKovy/30github/tree/master/0058-length-of-last-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Hash Table
@@ -21,4 +22,8 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SiaKovy/30github/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SiaKovy/30github/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
