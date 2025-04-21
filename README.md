@@ -26,4 +26,16 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiaKovy/30github/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SiaKovy/30github/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SiaKovy/30github/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SiaKovy/30github/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
