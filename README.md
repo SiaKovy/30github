@@ -6,6 +6,7 @@ My goal for this repository is to practice consistency in making commits every d
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SiaKovy/30github/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SiaKovy/30github/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiaKovy/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -14,6 +15,7 @@ My goal for this repository is to practice consistency in making commits every d
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -30,6 +32,7 @@ My goal for this repository is to practice consistency in making commits every d
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SiaKovy/30github/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
