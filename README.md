@@ -11,6 +11,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [0020-valid-parentheses](https://github.com/SiaKovy/30github/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiaKovy/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SiaKovy/30github/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/SiaKovy/30github/tree/master/0125-valid-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiaKovy/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/SiaKovy/30github/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
