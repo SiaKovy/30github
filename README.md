@@ -12,6 +12,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiaKovy/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SiaKovy/30github/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SiaKovy/30github/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/SiaKovy/30github/tree/master/0415-add-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SiaKovy/30github/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -19,6 +20,7 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -67,4 +69,8 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SiaKovy/30github/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
