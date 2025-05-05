@@ -20,6 +20,7 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
@@ -72,11 +73,13 @@ My goal for this repository is to practice consistency in making commits every d
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
