@@ -73,4 +73,12 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
