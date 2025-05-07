@@ -42,6 +42,7 @@ My goal for this repository is to practice consistency in making commits every d
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SiaKovy/30github/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SiaKovy/30github/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SiaKovy/30github/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/SiaKovy/30github/tree/master/0415-add-strings) |
