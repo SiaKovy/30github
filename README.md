@@ -20,6 +20,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SiaKovy/30github/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/SiaKovy/30github/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/SiaKovy/30github/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
