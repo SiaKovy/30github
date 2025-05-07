@@ -78,6 +78,7 @@ My goal for this repository is to practice consistency in making commits every d
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SiaKovy/30github/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/SiaKovy/30github/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -94,4 +95,8 @@ My goal for this repository is to practice consistency in making commits every d
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SiaKovy/30github/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
