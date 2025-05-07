@@ -17,6 +17,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [0415-add-strings](https://github.com/SiaKovy/30github/tree/master/0415-add-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SiaKovy/30github/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,10 +25,12 @@ My goal for this repository is to practice consistency in making commits every d
 | [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SiaKovy/30github/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +85,7 @@ My goal for this repository is to practice consistency in making commits every d
 | ------- |
 | [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SiaKovy/30github/tree/master/0217-contains-duplicate) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Bit Manipulation
 |  |
 | ------- |
