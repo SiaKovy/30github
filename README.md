@@ -21,6 +21,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SiaKovy/30github/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,11 +31,13 @@ My goal for this repository is to practice consistency in making commits every d
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
 ## Counting
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SiaKovy/30github/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
 ## Trie
 |  |
 | ------- |
@@ -97,10 +100,12 @@ My goal for this repository is to practice consistency in making commits every d
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SiaKovy/30github/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SiaKovy/30github/tree/master/0136-single-number) |
+| [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
 ## Linked List
 |  |
 | ------- |
