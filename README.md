@@ -21,6 +21,7 @@ My goal for this repository is to practice consistency in making commits every d
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SiaKovy/30github/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SiaKovy/30github/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SiaKovy/30github/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2235-capitalize-the-title](https://github.com/SiaKovy/30github/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/SiaKovy/30github/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SiaKovy/30github/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/SiaKovy/30github/tree/master/2594-count-pairs-of-similar-strings) |
